@@ -1,4 +1,4 @@
-# Story_NLTk
+# Story_NLTK
 
 This code contains 3 parts
 
